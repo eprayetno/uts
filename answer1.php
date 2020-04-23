@@ -3,11 +3,16 @@
 $angka = 8;
 
 echo "Nilai angka = $angka.</br>";
-
-$a = 2;
-echo $angka+$a."</br>";
-
-echo $angka-$a."</br>";
-
-
+$nilai = $angka+2;
+echo "Berapa nilai dan jenis operator yang diperlukan jika Nilai angka = $nilai ?.</br>";
+$nilai = $angka-2;
+echo "Berapa nilai dan jenis operator yang diperlukan jika Nilai angka = $nilai ?.</br>";
+$nilai = $angka*3+6;
+echo "Berapa nilai dan jenis operator yang diperlukan jika Nilai angka = $nilai ?.</br>";
+$nilai = $angka+2;
+echo "Berapa nilai dan jenis operator yang diperlukan jika Nilai angka = $nilai ?.</br>";
+$nilai = $angka+3;
+echo "jenis operator yang diperlukan jika Nilai angka = $nilai ?.</br>";
+$nilai = $angka+2;
+echo "jenis operator yang diperlukan jika Nilai angka = $nilai ?.</br>";
 ?>
